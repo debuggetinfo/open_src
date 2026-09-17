@@ -1,4 +1,5 @@
 local Actor = getactors()[1]
+-- coded in like 20 minutes, so its so so
 
 run_on_actor(Actor, [[
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/sametlibs/refs/heads/main/secrethaxx/Library.lua"))()
