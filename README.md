@@ -1,2 +1,2 @@
-# open_src
-just4fun
+# 🇺🇸 Feel free 2 skid, but please dont sell this
+# 🇷🇺 Можете брать или использовать отсюда все что хотите, но пожалуйста не продавайте это
